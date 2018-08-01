@@ -7,6 +7,7 @@ from __future__ import print_function
 import warnings
 
 import matplotlib
+from FlowCytometryTools import FCMeasurement
 import matplotlib.cm as cm
 import matplotlib.pyplot as plt
 import numpy
